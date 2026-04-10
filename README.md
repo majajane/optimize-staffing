@@ -28,7 +28,7 @@ The goal of this study is to analyze the occupancy data in the e-Library and to 
 	
 ## Outputs
 
-- **Figures** — Will automatically show up (time series, moving average, rate of change)
+- **Figures** — Will automatically show up
 - **Command Window Results** — After running the script, the MATLAB command window will display:
   - Optimal staff allocation per time block
   - Total staff required
