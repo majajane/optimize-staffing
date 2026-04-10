@@ -1,8 +1,14 @@
 # optimize-staffing
 Math Modeling (Final Course Output)
 
+## Project Title
+Utilizing Time-In/Time-Out Data to Optimize e-Library Staffing During Exam Season at Bulacan State University
+
 ## Overview
 The goal of this study is to analyze the occupancy data in the e-Library and to determine the busiest period. This way, the library does not exceed its capacity and allows students to utilize available space effectively.
+
+## Problem Statement
+The e-Library experiences fluctuating student occupancy during exam periods, resulting in ineffective staff distribution—too many employees at certain times and not enough at others. This research seeks to enhance staffing through data-driven models to boost efficiency and service quality
 
 ## Mathematical Models
 - **Time Series**: Tracks hourly occupancy changes
